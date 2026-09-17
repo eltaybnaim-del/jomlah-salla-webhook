@@ -1,0 +1,13 @@
+{
+  "name": "jomlah-salla-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure Salla webhook receiver for Jomlah",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
